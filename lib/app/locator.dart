@@ -20,4 +20,5 @@ void setupLocator() {
     () => DioApi(),
   );
   $initGetIt(locator);
+
 }
