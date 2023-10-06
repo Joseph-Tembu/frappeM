@@ -84,14 +84,14 @@ flutter_icons:
 dependency_overrides:
   flutter_colorpicker: ^0.6.0
   json_table:
-    git:
-      url: https://github.com/sumitbhanushali/json_table
-      ref: 0eee306ab5338340cd63749d3dcfbdd4a5382885
-  
+#    git:
+#      url: https://github.com/sumitbhanushali/json_table
+#      ref: 0eee306ab5338340cd63749d3dcfbdd4a5382885
+#
   flutter_form_builder:
-    git:
-      url: https://github.com/sumitbhanushali/flutter_form_builder
-      ref: fa0dad1906d28e446bfec1e723b04553a7a7027e
+#    git:
+#      url: https://github.com/sumitbhanushali/flutter_form_builder
+#      ref: fa0dad1906d28e446bfec1e723b04553a7a7027e
 
 
 # For information on the generic Dart part of this file, see the
